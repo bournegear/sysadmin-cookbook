@@ -160,3 +160,5 @@ cython_debug/
 #.idea/
 .env
 .DS_STORE
+
+creds.env
